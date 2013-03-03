@@ -1,6 +1,6 @@
-iCloudExample
+iCloudExample - Shop App
 =============
 
-Simple implementation of iCloud synchronizaton between iOS devices. 
+<b>Simple implementation of Core Data iCloud synchronizaton between iOS devices.<b>
 
 Feel free to use the code!
